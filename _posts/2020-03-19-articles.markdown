@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Publications"
+date:   2020-03-19 14:06:18 +0000
+permalink: /research/articles.html
+---
+
+I have one publication while I was doing my Bachelors in Mechatronics Engineering in India and second publicaiton while I was doing my Masters in Robotics at University of Maryland.
+
+### List of Publication
+
+- [SH Arul, AJ Sathyamoorthy, S Patel, M Otte, H Xu, MC Lin, D Manocha IEEE Robotics and Automation Letters 4 (4), 3940-3947](https://arxiv.org/pdf/1902.08379.pdf)
+- [S Sheth, A Ajmera, A Sharma, S Patel, C Kathrecha Soft Computing: Theories and Applications, 337-349]()
