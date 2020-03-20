@@ -189,4 +189,8 @@ And that's it, we successfully detected lanes. Single lane lines would look some
 
 ### Conclusion
 
-We successfully detected lane using OpenCV and python. Well, this is not the only method (or pipeline) for lane detection. You can use the color masking method which masks colors in the plane of HSV. You will need two masks one for the yellow lane and another for the white lane. Then you process the image similarly shown here. This approach would only work if there is a yellow lane on your left. But if you consider robustness, I think this pipeline would seem fit.
+We successfully detected lane using OpenCV and python. You can use below image as reference for the pipeline that we discussed in this article.
+
+{% include images.html url="/images/lane-detection-pipeline.jpg" description="" width="600" %}
+
+Well, this is not the only method (or pipeline) for lane detection. You can use the color masking method which masks colors in the plane of HSV. You will need two masks one for the yellow lane and another for the white lane. Then you process the image similarly shown here. This approach would only work if there is a yellow lane on your left. But if you consider robustness, I think this pipeline would seem fit.
