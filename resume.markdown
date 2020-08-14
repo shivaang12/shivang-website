@@ -10,6 +10,9 @@ Shivang Patel
 Education
 ---------
 
+2020 - Present
+:   **PhD, Computer Science**; West Virginia University (Morgantown, WV)
+<br/><br/>
 2017 - 2019
 :   **MEng, Robotics**; University of Maryland (College Park, MD)
 <br/><br/>
