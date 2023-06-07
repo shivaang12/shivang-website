@@ -21,6 +21,8 @@ Education
 Publications
 ------------
 
+Mera-Trujillo, M., **Patel, S.**, Gu, Y., & Doretto, G. (2023). Self-Supervised Interest Point Detection and Description for Fisheye and Perspective Images. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6497-6506).
+
 Randhawa, Z. A., **Patel, S.**, Adjeroh, D. A., & Doretto, G. (2022, December). Learning Representations for Masked Facial Recovery. In Advances in Visual Computing: 17th International Symposium, ISVC 2022, San Diego, CA, USA, October 3–5, 2022, Proceedings, Part I (pp. 22-35). Cham: Springer International Publishing.
 
 **Patel, S.**, Hariharan, S., Dhulipala, P., Lin, M. C., Manocha, D., Xu, H., & Otte, M. (2021, May). Multi-Agent Ergodic Coverage in Urban Environments. In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8764-8771). IEEE.
