@@ -21,15 +21,15 @@ Education
 Publications
 ------------
 
-Almohsen, R., **Patel, S.**, Adjeroh, D. A., & Doretto, G. (2023). A Robust Likelihood Model for Novelty Detection. arXiv preprint arXiv:2306.03331. [paper](https://arxiv.org/pdf/2306.03331.pdf)
+Almohsen, R., **Patel, S.**, Adjeroh, D. A., & Doretto, G. (2023). A Robust Likelihood Model for Novelty Detection. arXiv preprint arXiv:2306.03331. [Link](https://arxiv.org/pdf/2306.03331.pdf)
 
-Mera-Trujillo, M., **Patel, S.**, Gu, Y., & Doretto, G. (2023). Self-Supervised Interest Point Detection and Description for Fisheye and Perspective Images. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6497-6506). [paper](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Mera-Trujillo_Self-Supervised_Interest_Point_Detection_and_Description_for_Fisheye_and_Perspective_CVPRW_2023_paper.pdf)
+Mera-Trujillo, M., **Patel, S.**, Gu, Y., & Doretto, G. (2023). Self-Supervised Interest Point Detection and Description for Fisheye and Perspective Images. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 6497-6506). [Link](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Mera-Trujillo_Self-Supervised_Interest_Point_Detection_and_Description_for_Fisheye_and_Perspective_CVPRW_2023_paper.pdf)
 
-Randhawa, Z. A., **Patel, S.**, Adjeroh, D. A., & Doretto, G. (2022, December). Learning Representations for Masked Facial Recovery. In Advances in Visual Computing: 17th International Symposium, ISVC 2022, San Diego, CA, USA, October 3–5, 2022, Proceedings, Part I (pp. 22-35). Cham: Springer International Publishing. [paper](https://arxiv.org/pdf/2212.14110)
+Randhawa, Z. A., **Patel, S.**, Adjeroh, D. A., & Doretto, G. (2022, December). Learning Representations for Masked Facial Recovery. In Advances in Visual Computing: 17th International Symposium, ISVC 2022, San Diego, CA, USA, October 3–5, 2022, Proceedings, Part I (pp. 22-35). Cham: Springer International Publishing. [Link](https://arxiv.org/pdf/2212.14110)
 
-**Patel, S.**, Hariharan, S., Dhulipala, P., Lin, M. C., Manocha, D., Xu, H., & Otte, M. (2021, May). Multi-Agent Ergodic Coverage in Urban Environments. In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8764-8771). IEEE. [paper](http://ottelab.com/html_stuff/pdf_files/Patel.etal.ICRA21.pdf)
+**Patel, S.**, Hariharan, S., Dhulipala, P., Lin, M. C., Manocha, D., Xu, H., & Otte, M. (2021, May). Multi-Agent Ergodic Coverage in Urban Environments. In 2021 IEEE International Conference on Robotics and Automation (ICRA) (pp. 8764-8771). IEEE. [Link](http://ottelab.com/html_stuff/pdf_files/Patel.etal.ICRA21.pdf)
 
-Arul, S. H., Sathyamoorthy, A. J., **Patel, S.**, Otte, M., Xu, H., Lin, M. C., & Manocha, D. (2019). LSwarm: Efficient collision avoidance for large swarms with coverage constraints in complex urban scenes. IEEE Robotics and Automation Letters, 4(4), 3940-3947. [paper](https://arxiv.org/pdf/1902.08379)
+Arul, S. H., Sathyamoorthy, A. J., **Patel, S.**, Otte, M., Xu, H., Lin, M. C., & Manocha, D. (2019). LSwarm: Efficient collision avoidance for large swarms with coverage constraints in complex urban scenes. IEEE Robotics and Automation Letters, 4(4), 3940-3947. [Link](https://arxiv.org/pdf/1902.08379)
 
 Sheth, S., Ajmera, A., Sharma, A., **Patel, S.**, & Kathrecha, C. (2018). Design and development of intelligent AGV using computer vision and artificial intelligence. In Soft Computing: Theories and Applications (pp. 337-349). Springer, Singapore.
 
